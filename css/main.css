@@ -1,0 +1,46 @@
+body{
+	padding: 40px;
+	background: #e4fbff;
+}
+
+.row{
+	margin-bottom: 20px;
+}
+
+header{
+	background: #7868e6;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 55px;
+}
+
+
+.datos{
+	background: #b8b5ff;
+	margin: 20px;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+
+.buttonEnviar{
+	padding-top: 20px;
+	padding-right: 40px;	
+}
+
+.respuesta{
+	background: #b8b5ff;
+	margin: 20px;
+	display: none;
+}
+
+.textoRespuesta{
+	padding: 25px;
+}
+
+footer{
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 55px;
+}
+
