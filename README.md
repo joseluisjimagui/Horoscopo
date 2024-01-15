@@ -1,4 +1,4 @@
-# Horoscopo 
+# HoroscopoPage 
 
 Static webpage where the user can see the future by fill a form, then a message with your future and some images will be displayed.
 
